@@ -1,4 +1,1 @@
-read
-just read
-continue
-third
+这是一个查询算法，目前还在编写中。
